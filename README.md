@@ -20,6 +20,9 @@ struct group_info *groups_alloc(int gidsetsize){
 	int i;
 
 
+// undo-initial erri=or// 
+**HELLO FRIEND**
+
 
 	nblocks = (gidsetsize + NGROUPS_PER_BLOCK - 1) / NGROUPS_PER_BLOCK;
 
