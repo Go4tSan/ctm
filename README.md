@@ -87,7 +87,7 @@ out_undo_partial_alloc:
 **hola richar**
 
 EXPORT_SYMBOL(groups_alloc);
-
+** solicitud de extranccion para la linea 87**
 
 
 void groups_free(struct group_info *group_info)
